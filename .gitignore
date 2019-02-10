@@ -10,3 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+amarotech-framework-domain-models/\.settings/
+
+amarotech-framework-domain-repositories/\.settings/
+
+amarotech-framework-domain-services/\.settings/
